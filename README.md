@@ -2,6 +2,8 @@
 
 A single-file browser tool to fetch, filter, and export Indicators of Compromise (IOCs) from your subscribed [AlienVault OTX](https://otx.alienvault.com) threat intelligence pulses — no backend, no install, no dependencies.
 
+Built via free tier AI tools 
+
 ---
 
 ## What It Does
